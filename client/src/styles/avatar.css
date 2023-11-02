@@ -1,0 +1,34 @@
+.supper-avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.big-avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.medium-avatar {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.small-avatar {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+
+.avatarContainer {
+    position: relative
+}
+
+.avatarContainer i {
+    position: absolute;
+    right: 0px;
+    bottom: 5px;
+    /* border: solid 1px black !important; */
+}
