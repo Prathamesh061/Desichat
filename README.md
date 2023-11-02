@@ -1,6 +1,6 @@
-# MERNY
+# DESIGRAM  
 
-Merny is a Social Media Application build with MERN Stack
+Desigram is a Social Media Application build with MERN Stack
 
 ### Features
 - Login/Register
@@ -18,7 +18,7 @@ Merny is a Social Media Application build with MERN Stack
 ### Setup
 
 ```
-cd merny  
+cd desigram  
 npm install  
 cd client  
 npm install  
